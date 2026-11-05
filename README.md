@@ -1,5 +1,7 @@
 # Library Tracker
 A command-line program for tracking library books.
 ## Features
-- (none yet)
+- Add books with there title and authors 
+
 ## Contributors
+- Syed Maaz Tariq 
